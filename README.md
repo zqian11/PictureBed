@@ -1,0 +1,2 @@
+# PictureBed
+Screenshot upload tool
